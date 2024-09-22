@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D76441C-65E5-495F-863F-B770BA779EB7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E731B03C-BE0A-4D50-9AEE-7BE4D1188C83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoStarWarTests/DemoStarWarTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "dataLoadVM()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E731B03C-BE0A-4D50-9AEE-7BE4D1188C83 - 1242ba0a3d7ee7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoStarWarTests.DemoStarWarTests.dataLoadVM() async throws -&gt; ()"
+                  moduleName = "DemoStarWarTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pabloedr/Developer/Projects/Movile/DemoStarWar/DemoStarWarTests/DemoStarWarTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+               <Location
+                  uuid = "E731B03C-BE0A-4D50-9AEE-7BE4D1188C83 - 9d5a3ba1ad9917d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for DemoStarWarTests.DemoStarWarTests.dataLoadVM() async throws -&gt; ()"
+                  moduleName = "DemoStarWarTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pabloedr/Developer/Projects/Movile/DemoStarWar/DemoStarWarTests/DemoStarWarTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
